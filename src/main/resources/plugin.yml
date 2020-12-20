@@ -1,0 +1,10 @@
+name: Warp
+author: zentreaxdev
+main: dev.zentreax.warp.Main
+description: A simple Warp Plugin made by Zentreax#8277
+website: zentreax.dev
+version: 1.0
+commands:
+  warp:
+    description: /warp <name> || warp <set/del> <name>
+
